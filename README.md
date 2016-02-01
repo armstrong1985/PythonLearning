@@ -1,2 +1,2 @@
 # PythonLearning
-Project for learning Python (mostly version3+)
+Project for own learning Python (mostly version3+). It alsu using for learning GitHub possibilities and functionality.
